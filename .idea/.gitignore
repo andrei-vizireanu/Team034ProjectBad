@@ -1,0 +1,12 @@
+# Default ignored files
+/workspace.xml
+/description.html
+/encodings.xml
+/misc.xml
+/modules.xml
+/project-template.xml
+/../Team034Project.iml
+/vcs.xml
+
+.idea
+*.iml
