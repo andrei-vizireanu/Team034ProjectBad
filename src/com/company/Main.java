@@ -4,9 +4,8 @@ public class Main {
 
     public static void main(String[] args) {
 
-        System.out.println("cevaddsddsds");
-
-
+        System.out.println("test test");
+        //test test
         int i = 0;
     }
 }
