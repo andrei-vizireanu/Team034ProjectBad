@@ -41,6 +41,7 @@ public class Main {
             }//end finally try
         }//end try
         System.out.println("Goodbye!");
+        System.out.println("Test");
     }
 }
 
