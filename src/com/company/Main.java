@@ -40,6 +40,7 @@ public class Main {
             }//end finally try
         }//end try
         System.out.println("Goodbye, Andrei!");
+        System.out.println("Hi, Ramona");
     }
 }
 
