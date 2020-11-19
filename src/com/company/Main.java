@@ -21,7 +21,6 @@ public class Main {
             // use the open connection
             // for several queries
 
-
         }
         catch (Exception ex) {
             ex.printStackTrace();
@@ -40,7 +39,7 @@ public class Main {
                 se.printStackTrace();
             }//end finally try
         }//end try
-        System.out.println("Goodbye!");
+        System.out.println("Goodbye, Andrei!");
     }
 }
 
