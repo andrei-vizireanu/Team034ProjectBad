@@ -7,5 +7,7 @@ public class Main {
         System.out.println("test test");
         //test test
         int i = 0;
+
+        System.out.println("Andrei test");
     }
 }
