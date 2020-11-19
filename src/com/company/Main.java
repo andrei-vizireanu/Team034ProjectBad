@@ -8,7 +8,7 @@ public class Main {
         //test test
         int i = 0;
 
-        System.out.println("Lujain test");
+        System.out.println("Lujain Hawsawi");
         System.out.println("chigozim test");
     }
 }
